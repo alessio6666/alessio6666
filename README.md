@@ -1,9 +1,7 @@
-## Hi there 👋
-
-# Ciao, sono Alessio! 👋
+## Hi there, I am Alessio
 
 ### 🎓 Mathematical Engineering Student @ Politecnico di Milano
-Appassionato di **Statistica Bayesiana**, **Machine Learning** e **Data Science**. Mi piace trasformare dati complessi (come quelli della missione LISA 🌌) in insight comprensibili e modelli predittivi robusti.
+Currently pursuing an MSc in Mathematical Engineering at Politecnico di Milano, specializing in Statistical Learning, Machine Learning and Data Analysis. I combine a rigorous engineering mindset with the resilience and accountability forged through 12 years of competitive Judo and lifeguard experience. My goal is to translate complex datasets into strategic business insights, aiming to drive actionable value in fast-paced, data-driven roles. Seeking a thesis internship to apply quantitative methods and predictive modelling to real-world business challenges.
 
 ---
 
@@ -17,16 +15,8 @@ Appassionato di **Statistica Bayesiana**, **Machine Learning** e **Data Science*
 
 ---
 
-### 📊 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alessio6666&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessio6666&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
 
 ---
 
-### 📫 Contatti
-* **LinkedIn:** [linkedin.com/in/alessio-pani](https://www.linkedin.com/in/alessio-pani-8739b93bb)
-* **Portfolio:** [Dai un'occhiata alle mie Repository!](https://github.com/alessio6666?tab=repositories)
+ **LinkedIn:** [linkedin/alessiopani](https://www.linkedin.com/in/alessio-pani-8739b93bb)
 
-> *"In God we trust, all others must bring data."* — W. Edwards Deming
