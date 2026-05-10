@@ -1,19 +1,32 @@
 ## Hi there 👋
 
-<!--
-**alessio6666/alessio6666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ciao, sono Alessio! 👋
 
-Here are some ideas to get you started:
+### 🎓 Mathematical Engineering Student @ Politecnico di Milano
+Appassionato di **Statistica Bayesiana**, **Machine Learning** e **Data Science**. Mi piace trasformare dati complessi (come quelli della missione LISA 🌌) in insight comprensibili e modelli predittivi robusti.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
 ### 📊 My GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alessio6666&show_icons=true&theme=radial)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessio6666&layout=compact&theme=radial)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alessio6666&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessio6666&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 📫 Contatti
+* **LinkedIn:** [linkedin.com/in/alessio-pani](https://www.linkedin.com/in/alessio-pani-8739b93bb)
+* **Portfolio:** [Dai un'occhiata alle mie Repository!](https://github.com/alessio6666?tab=repositories)
+
+> *"In God we trust, all others must bring data."* — W. Edwards Deming
